@@ -5,4 +5,8 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ### Practice Skills
 <li>Creative feature engineering 
-<li>Advanced regression techniques like random forest and gradient boosting
+<li>Data manipulation 
+<li>Advanced regression techniques like random forest and gradient boosting and neural networks
+  
+Step by step description here: HousesPricing.ipynb
+
